@@ -16,7 +16,7 @@ The instacart project is a project of association rule mining and a bit of netwo
 
 # Heartbeat prediction with Python (Keras)
 
-I set out to predict 6 most frequent types of heartbeats given ECG graphs using neural network. The training data are annotated by cardiologists. The final accuracy of the deep learning model is around 96.8%. Data comes from the [MIT-BIH Arrhythmia Database](https://www.physionet.org/content/mitdb/1.0.0/). Special python package wfdb was used to read the ecg samples and annotations. [Final Report](https://github.com/jerchiury/heartbeat_python/blob/master/heartbeat_python.md)
+I set out to predict 6 most frequent types of heartbeats given ECG graphs using neural network. The training data are annotated by cardiologists. The final accuracy of the deep learning model is around 97.3%. Data comes from the [MIT-BIH Arrhythmia Database](https://www.physionet.org/content/mitdb/1.0.0/). Special python package wfdb was used to read the ecg samples and annotations. [Final Report](https://github.com/jerchiury/heartbeat_python/blob/master/heartbeat_python.md)
 
 ![](profile_files/cm_val1.png)
 ![](profile_files/heatmap_L.png)
