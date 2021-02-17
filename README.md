@@ -14,6 +14,14 @@ The instacart project is a project of association rule mining and a bit of netwo
 ![](profile_files/unnamed-chunk-30-1.png)
 
 
+## Heartbeat prediction with Python (Keras)
+
+I set out to predict the type of heartbeat given ECG graphs using neural network. The training data are annotated by cardiologists. The final accuracy of the deep learning model is around 96.8%. Data comes from the [MIT-BIH Arrhythmia Database](https://www.physionet.org/content/mitdb/1.0.0/). Special python package wfdb was used to read the ecg samples and annotations. 
+
+![](profile_files/cm_val1.png)
+![](profile_files/heatmap_L.png)
+![](profile_files/heatmap_R.png)
+
 
 ## Covid 19 forecasting with Python
 
@@ -23,13 +31,3 @@ Covid 19 forecasting for Ontario using three different methods: ARIMA, exponenti
 ![](profile_files/prov_equivalent_exp.png)
 ![](profile_files/inactive_shifted_cumulative.png)
 ![](profile_files/cumulative_cases_arima_321_res.png)
-
-
-
-## Heartbeat prediction with Python (Keras)
-
-I set out to predict the type of heartbeat given ECG graphs using neural network. The training data are annotated by cardiologists. The final accuracy of the deep learning model is around 96.8%. Data comes from the [MIT-BIH Arrhythmia Database](https://www.physionet.org/content/mitdb/1.0.0/). Special python package wfdb was used to read the ecg samples and annotations. 
-
-![](profile_files/heatmap_L.png)
-![](profile_files/heatmap_R.png)
-![](profile_files/cm_val1.png)
