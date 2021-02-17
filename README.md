@@ -26,6 +26,10 @@ Covid 19 forecasting for Ontario using three different methods: ARIMA, exponenti
 
 
 
-## Heartbeat prediction with R
+## Heartbeat prediction with Python (Keras)
 
-I set out to predict the type of heartbeat given ECG graphs. The training data are annotated by cardiologists. The final accuracy of the deep learning model is 95%. 
+I set out to predict the type of heartbeat given ECG graphs using neural network. The training data are annotated by cardiologists. The final accuracy of the deep learning model is around 96.8%. Data comes from the [MIT-BIH Arrhythmia Database](https://www.physionet.org/content/mitdb/1.0.0/). Special python package wfdb was used to read the ecg samples and annotations. 
+
+![](profile_files/heatmap_L.png)
+![](profile_files/heatmap_R.png)
+![](profile_files/cm_val1.png)
