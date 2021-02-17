@@ -8,8 +8,8 @@
 
 The instacart project is a project of association rule mining and a bit of network analysis. Technique used are: hierarchical clustering, text mining, parts-of-speech tagging, apriori association rules mining, and network graphs. [Final Report](https://github.com/jerchiury/InstacartProject/blob/master/instacart.md)
 
-![](profile_files/unnamed-chunk-18-1.png)
-![](profile_files/unnamed-chunk-24-1.png)
+![](profile_files/unnamed-chunk-18-1.png) ![](profile_files/unnamed-chunk-25-1.png)
+![](profile_files/unnamed-chunk-24-1.png) ![](profile_files/unnamed-chunk-30-1.png)
 ![](profile_files/unnamed-chunk-25-1.png)
 ![](profile_files/unnamed-chunk-30-1.png)
 
