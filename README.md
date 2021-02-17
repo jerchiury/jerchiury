@@ -4,7 +4,7 @@
 
 Below are some of the projects I did:
 
-## Instacart project with R
+# Instacart project with R
 
 The instacart project is a project of association rule mining and a bit of network analysis. Technique used are: hierarchical clustering, text mining, parts-of-speech tagging, apriori association rules mining, and network graphs. 
 
@@ -14,7 +14,7 @@ The instacart project is a project of association rule mining and a bit of netwo
 ![](profile_files/unnamed-chunk-30-1.png)
 
 
-## Heartbeat prediction with Python (Keras)
+# Heartbeat prediction with Python (Keras)
 
 I set out to predict the type of heartbeat given ECG graphs using neural network. The training data are annotated by cardiologists. The final accuracy of the deep learning model is around 96.8%. Data comes from the [MIT-BIH Arrhythmia Database](https://www.physionet.org/content/mitdb/1.0.0/). Special python package wfdb was used to read the ecg samples and annotations. 
 
@@ -23,7 +23,7 @@ I set out to predict the type of heartbeat given ECG graphs using neural network
 ![](profile_files/heatmap_R.png)
 
 
-## Covid 19 forecasting with Python
+# Covid 19 forecasting with Python
 
 Covid 19 forecasting for Ontario using three different methods: ARIMA, exponential smoothing, and dynamic time warping. Techniques used are: Fourier analysis, ARIMA, exponential smoothing, dynamic time warping, regression, and curve fitting.
 
